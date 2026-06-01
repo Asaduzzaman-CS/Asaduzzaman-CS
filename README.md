@@ -6,7 +6,9 @@ Author - Asaduzzaman
 <br>
 Learning  C Programming 
 <br>
-Currently learning C language, C++ language 
+Currently learning C language
+<br>
+C++ language 
 <br>
 Goal: Become a Software Engineer
 <br>
