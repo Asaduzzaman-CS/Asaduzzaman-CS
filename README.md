@@ -6,7 +6,7 @@ Author - Asaduzzaman
 <br>
 Learning  C Programming 
 <br>
-Currently learning Data Structures 
+Currently learning C language, C++ language 
 <br>
 Goal: Become a Software Engineer
 <br>
