@@ -2,28 +2,25 @@
 
 int main()
 {
-    int n;
+    int digit;
+    printf("Enter a digit: ");
+    scanf("%d",&digit);
 
-    printf("Enter a number: ");
-    scanf("%d",&n);
-
-    switch(n)
+    switch(digit)
     {
-        case 1:
-            printf("One");
-            break;
 
-        case 2:
-            printf("Two");
-            break;
-
-        case 3:
-            printf("Three");
-            break;
-
-        default:
-            printf("Invalid");
+         case 0:
+        printf("Zero\n");
+          case 1:
+        printf("One\n");
+          case 2:
+        printf("Two\n");
+          case 3:
+        printf("Three\n");
+          case 4:
+        printf("Four\n");
+         default:
+            printf("Invalid Digit\n");
     }
-
-    return 0;
+return 0;
 }
